@@ -1,0 +1,21 @@
+Nom,Age,Filiere,Note_Python,Note_SQL,Note_ML,Statut,Ville
+Ndeye Penda Sarr,23.0,Dev Data,16.5,15.0,17.0,Admis,Dakar
+Alassane Ndour,24.0,dev data,18.0,17.0,,admis,Dakar
+Fatou Diallo,22.0,DEV DATA,14.0,13.5,12.0,ADMIS,Thiès
+Moussa Diop,25.0,Dev Data,15.5,,14.0,Admis,Saint-Louis
+Aminata Fall,23.0,Dev Web,13.0,12.0,11.5,Non Admis,Dakar
+Ibrahima Sow,26.0,Dev Data,17.5,16.0,18.0,Admis,Ziguinchor
+Mariama Balde,22.0,Dev Web,,14.5,13.0,Non Admis,Dakar
+Cheikh Wade,24.0,Dev Data,16.0,15.5,15.0,Admis,Thiès
+Rokhaya Gueye,23.0,Dev Web,12.5,11.5,10.0,Non Admis,Dakar
+Ousmane Ba,25.0,Dev Data,19.0,18.0,19.5,Admis,Saint-Louis
+Fatou Diallo,22.0,DEV DATA,14.0,13.5,12.0,ADMIS,Thiès
+Aissatou Ndiaye,24.0,dev web,15.0,14.0,,Admis,Dakar
+Modou Faye,23.0,Dev Data,13.5,12.5,11.0,Non Admis,Dakar
+,22.0,Dev Data,14.5,13.0,13.5,Admis,Thiès
+Khady Mbaye,,Dev Web,11.0,10.5,9.5,Non Admis,Dakar
+Souleymane Diop,24.0,Dev Data,18.5,17.5,17.0,Admis,Ziguinchor
+Adja Seck,23.0,dev web,12.0,11.0,10.5,Non admis,Dakar
+Pape Thiaw,25.0,Dev Data,17.0,16.0,16.5,Admis,Saint-Louis
+Ndèye Fall,22.0,Dev Web,14.0,13.5,12.0,Non Admis,Dakar
+Binta Camara,24.0,Dev Data,16.5,15.0,14.5,Admis,Dakar
